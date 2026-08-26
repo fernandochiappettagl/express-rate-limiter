@@ -1,0 +1,16 @@
+{
+  "name": "express-rate-limiter",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "name": "Fernando Gabriel Chiappetta",
+    "email": "fernando.chiappetta@globallogic.com",
+    "url": "https://github.com/fernandochiappettagl"
+  },
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~5.2.1"
+  }
+}
